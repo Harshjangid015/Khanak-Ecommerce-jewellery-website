@@ -1,4 +1,4 @@
-So Hello Everyone,
+Hello Everyone,
 This is a E commerce jewellery website 
 KHANAK - Tum khubsurat ho 
 Languages used :- HTML CSS JS [Frontend]
