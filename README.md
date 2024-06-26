@@ -1,19 +1,35 @@
-Hello Everyone,
-This is a E commerce jewellery website 
-KHANAK - Tum khubsurat ho 
-Languages used :- HTML CSS JS [Frontend]
-                  php and xamp [Backend]
-                  
-IMPORTANT : Download this zipfile in this path 'C:\xampp\htdocs\khanak'. without this the website won't be able to host
-example : my file is located at the path 'C:\xampp\htdocs\khanak'
-How to run the code :
-1. Install the xamp control panel from the internet
-2. open the control panel and start the apache and mysql server
-3. Click on this link http://localhost/phpmyadmin/
-4. This will open the myphpadmin
-5. Create a database 'Khanak'
-6. in phpmyadmin, import the data with the SQL file attached in the folder [this will import all the data in the database]
+Khanak Ecommerce Jewellery Website
+Welcome to Khanak, an e-commerce website for jewellery. This project showcases a full-stack web application with a focus on selling jewellery items.
 
-7. type this url to host the file : http://localhost/Khanak/index.php
+Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: PHP, XAMPP
+Installation Instructions
+Download and Extract Files:
 
-   
+Download the repository files and extract them to C:\xampp\htdocs\khanak.
+Install XAMPP:
+
+Download and install XAMPP.
+Start Apache and MySQL:
+
+Open the XAMPP control panel.
+Start the Apache and MySQL servers.
+Set Up Database:
+
+Navigate to phpMyAdmin.
+Create a new database named Khanak.
+Import the SQL file provided in the repository to populate the database.
+Run the Application:
+
+Access the application by navigating to http://localhost/Khanak/index.php.
+Features
+User authentication and management
+Product catalog with search functionality
+Shopping cart and checkout process
+Order history and tracking
+
+PREVIEW : 
+![image](https://github.com/Harshjangid015/Khanak-Ecommerce-jewellery-website/assets/160697094/aa9adf57-2594-4738-b02d-a8765b555f2f)
+
+complete preview drive link : https://drive.google.com/file/d/1swZtPYrxtvozkdPG15gzKLIbxSEZqMUO/view?usp=sharing
