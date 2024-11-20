@@ -1,58 +1,62 @@
-Khanak Ecommerce Jewellery Website
+# Khanak Ecommerce Jewellery Website
 
-Welcome to Khanak, an e-commerce website for jewellery. This project showcases a full-stack web application with a focus on selling jewellery items.
+Welcome to **Khanak**, an e-commerce website designed for selling exquisite jewellery. This project demonstrates a full-stack web application focused on providing an elegant and functional shopping experience.
 
+## Technologies Used
 
-Technologies Used
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP, XAMPP  
 
-Frontend: HTML, CSS, JavaScript
+---
 
-Backend: PHP, XAMPP
+## Installation Instructions
 
-Installation Instructions
+### Step 1: Download and Extract Files  
+1. Download the repository files.  
+2. Extract them to:  
+   ```
+   C:\xampp\htdocs\khanak
+   ```
 
-Download and Extract Files:
+### Step 2: Install XAMPP  
+1. Download and install XAMPP from [https://www.apachefriends.org](https://www.apachefriends.org).  
 
+### Step 3: Start Apache and MySQL  
+1. Open the XAMPP control panel.  
+2. Start the **Apache** and **MySQL** servers.  
 
-Download the repository files and extract them to C:\xampp\htdocs\khanak.
+### Step 4: Set Up Database  
+1. Navigate to [phpMyAdmin](http://localhost/phpmyadmin).  
+2. Create a new database named `Khanak`.  
+3. Import the SQL file provided in the repository to populate the database.  
 
-Install XAMPP:
+### Step 5: Run the Application  
+1. Open a web browser.  
+2. Access the application at:  
+   ```
+   http://localhost/Khanak/index.php
+   ```
 
+---
 
-Download and install XAMPP.
+## Features
 
-Start Apache and MySQL:
+- **User Authentication and Management**  
+  Secure login and registration system.  
 
+- **Product Catalog with Search Functionality**  
+  Browse and search for jewellery items with ease.  
 
-Open the XAMPP control panel.
+- **Shopping Cart and Checkout Process**  
+  Add items to the cart and complete the checkout seamlessly.  
 
-Start the Apache and MySQL servers.
+- **Order History and Tracking**  
+  Track your previous orders and their status.
 
-Set Up Database:
+---
 
+## Preview
 
-Navigate to phpMyAdmin.
-
-Create a new database named Khanak.
-
-Import the SQL file provided in the repository to populate the database.
-
-Run the Application:
-
-
-Access the application by navigating to http://localhost/Khanak/index.php.
-
-Features
-
-User authentication and management
-
-Product catalog with search functionality
-
-Shopping cart and checkout process
-
-Order history and tracking
-
-PREVIEW : 
 ![image](https://github.com/Harshjangid015/Khanak-Ecommerce-jewellery-website/assets/160697094/aa9adf57-2594-4738-b02d-a8765b555f2f)
 
 complete preview drive link : https://drive.google.com/file/d/1swZtPYrxtvozkdPG15gzKLIbxSEZqMUO/view?usp=sharing
